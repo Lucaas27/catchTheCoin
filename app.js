@@ -57,7 +57,7 @@ const moveHorizontal = (element, amount) => {
 }
 
 const count = () => {
-	score.innerText = `Score: ${++counter}`;
+	score.innerText = `${++counter}`;
 }
 
 moveCoin();

@@ -6,8 +6,6 @@ There is a score to count how many times the coin was caught.
 
 # Technologies used
 
-JavaScript ES6
-HTML
-CSS
+JavaScript ES6, HTML and CSS
 
 # Live view
