@@ -9,3 +9,4 @@ There is a score to count how many times the coin was caught.
 JavaScript ES6, HTML and CSS
 
 # Live view
+[Game] (https://lucaas27.github.io/catchTheCoin/)
